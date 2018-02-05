@@ -1,3 +1,10 @@
+/*
+ * Name        : stackable.java
+ * Author      : Jisook Kim
+ * Description : stack interface declaration
+ */
+
+
 package stack;
 
 public interface stackable<E> {
